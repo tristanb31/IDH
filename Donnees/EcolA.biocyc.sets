@@ -1,0 +1,295 @@
+# format: sets
+# version: 1.2
+# strain: EcolA
+# date: 2013/09/23
+# comment: BioCyc pathways
+1CMET2-PWY	formylTHF biosynthesis I	FOLA	FOLC	FOLD	GCVH	GCVP	GCVT	GLYA	LPDA	METF	METH	PURU	THYA	YDGB
+2PHENDEG-PWY	phenylethylamine degradation	FEAB	TYNA
+4AMINOBUTMETAB-PWY	4-aminobutyrate degradation I	B1525	GABD	GABT	GOAG
+ACETATEUTIL-PWY	superpathway of acetate utilization and formation	ACKA	ACS	PTA
+ACETOACETATE-DEG-PWY	acetoacetate degradation (to acetyl CoA)	ATOA	ATOB	ATOD
+ALADEG-PWY	alanine degradation I	ALR	DADA	DADX
+ALANINE-SYN2-PWY	alanine biosynthesis II	ILVE
+ALANINE-VALINESYN-PWY	alanine biosynthesis I	ALR	AVTA	DADX	ILVE
+ALKANEMONOX-PWY	two-component alkanesulfonate monooxygenase	YCBN	YCBP
+ALL-CHORISMATE-PWY	superpathway of chorismate	AROA	AROB	AROC	AROD	AROE	AROF	AROG	AROH	AROK	AROL	ASPC	ENTA	ENTB	ENTC	ENTD	ENTE	ENTF	FOLA	FOLC	FOLD	FOLE	FOLK	FOLP	MENA	MENB	MENC	MEND	MENE	MENF	NTPA	PABA	PABB	PABC	PHEA	PURN	TRPA	TRPB	TRPC	TRPD	TRPE	TYRA	TYRB	UBIA	UBIB	UBIC	UBIE	UBIG	UBIH	UBIX	YDGB	YDIB	YFBB	YGIG	YIGC	YIGR	YLEB
+AMMASSIM-PWY	superpathway of glutamate biosynthesis	GLNA	GLTB	GLTD
+ANARESP1-PWY	respiration (anaerobic)	ACEE	ACEF	ACNB	ENO	FDHF	FRDA	FRDB	FRDC	FRDD	FUMA	FUMB	FUMC	GLTA	HYCB	HYCC	HYCD	HYCE	HYCF	HYCG	ICDA	LPDA	MDH	PFLB	PPC	PYKA	PYKF	TDCE
+ARABCAT-PWY	L-arabinose degradation I	ARAA	ARAB	ARAD
+ARCB-PWY	ArcAB Two-Component Signal Transduction System	B2340
+ARG+POLYAMINE-SYN	superpathway of arginine and polyamine biosynthesis	ARGA	ARGB	ARGC	ARGD	ARGE	ARGF	ARGG	ARGH	ARGI	CADA	CARA	CARB	LDCC	SPEA	SPEB	SPEC	SPED	SPEE
+ARGDEG-PWY	superpathway of arginine, putrescine, and 4-aminobutyrate degradation	ADIA	ALDH	B1297	B1444	B1525	GABD	GABT	GOAG	ORDL	SPEB	YCJL	YGJG
+ARGSYN-PWY	arginine biosynthesis I	ARGA	ARGB	ARGC	ARGD	ARGE	ARGF	ARGG	ARGH	ARGI	CARA	CARB
+ARO-PWY	chorismate biosynthesis I	AROA	AROB	AROC	AROD	AROE	AROF	AROG	AROH	AROK	AROL	YDIB
+ASPARAGINE-BIOSYNTHESIS	asparagine biosynthesis I	ASNB
+ASPARAGINESYN-PWY	asparagine biosynthesis II	ASNA	ASNB
+ASPARTATESYN-PWY	aspartate biosynthesis	ASPC
+ASPASN-PWY	superpathway of aspartate and asparagine biosynthesis; interconversion of aspartate and asparagine	ANSA	ANSB	ASNA	ASNB	ASPA	ASPC	YBIK
+AST-PWY	arginine degradation II (AST pathway)	B1745	B1746	B1747	CSTC	YDJS
+BETSYN-PWY	glycine betaine biosynthesis I (Gram-negative bacteria)	BETA	BETB
+BGALACT-PWY	lactose degradation III	LACZ
+BIOTIN-SYNTHESIS-PWY	biotin biosynthesis I	BIOA	BIOB	BIOD	BIOF
+BRANCHED-CHAIN-AA-SYN-PWY	superpathway of leucine, valine, and isoleucine biosynthesis	ILVA	ILVB	ILVC	ILVD	ILVE	ILVG_1	ILVH	ILVI	ILVM	ILVN	LEUA	LEUB	LEUC	LEUD	TYRB
+BSUBPOLYAMSYN-PWY	spermidine biosynthesis	SPED	SPEE
+CARNMET-PWY	carnitine degradation I	CAIA	CAIB	CAIC	CAID
+CHE-PWY	Chemotactic Signal Transduction System	CHEB	CHER
+COA-PWY	coenzyme A biosynthesis	COAA	DFP	KDTB	YACE
+COBALSYN-PWY	adenosylcobalamin salvage from cobinamide I	BTUR	COBS	COBT	COBU	PHPB
+COLANSYN-PWY	colanic acid building blocks biosynthesis	CPSB	CPSG	GALE	GALF	GALK	GALT	GALU	GMD	MANA	PGI	UGD	WCAG
+COMPLETE-ARO-PWY	superpathway of phenylalanine, tyrosine, and tryptophan biosynthesis	AROA	AROB	AROC	AROD	AROE	AROF	AROG	AROH	AROK	AROL	ASPC	PHEA	TRPA	TRPB	TRPC	TRPD	TRPE	TYRA	TYRB	YDIB
+CYANCAT-PWY	cyanate degradation	CYNS	CYNT
+CYSTSYN-PWY	cysteine biosynthesis I	CYSE	CYSM	CYSZ
+DAPLYSINESYN-PWY	lysine biosynthesis I	ARGD	ASD	DAPA	DAPB	DAPD	DAPE	DAPF	LYSA	LYSC
+DARABCATK12-PWY	D-arabinose degradation I	ALDA	FUCA	FUCI	FUCK
+DENOVOPURINE2-PWY	purine nucleotides <i>de novo</i> biosynthesis I	ADK	GMK	GUAA	GUAB	NDK	NRDA	NRDB	NRDD	NRDE	PURA	PURB	PURC	PURD	PURE	PURH	PURK	PURL	PURM	PURT	YGAD
+DETOX1-PWY	superoxide radicals degradation	KATE	KATG	SODA	SODB	SODC
+DTDPRHAMSYN-PWY	dTDP-L-rhamnose biosynthesis I	RFBA	RFBB	RFBC	RFBD
+ECASYN-PWY	enterobacterial common antigen biosynthesis	RFE	RFFG	RFFH	WECB	WECC	WECD	WECE	WECF	WECG
+ENTBACSYN-PWY	enterobactin biosynthesis	ENTA	ENTB	ENTC	ENTD	ENTE	ENTF
+ENTNER-DOUDOROFF-PWY	Entner-Doudoroff pathway I	EDA	EDD
+ETOH-ACETYLCOA-ANA-PWY	ethanol degradation	ADHC	ADHP	MHPF
+FAO-PWY	fatty acid &beta;-oxidation I	AIDB	B1695	B2341	B2342	FADA	FADB	FADD	MAOC	UBIB	YAFH	YDID
+FASYN-ELONG-PWY	fatty acid elongation -- saturated	FABA	FABB	FABF	FABG	FABI	FABZ
+FASYN-INITIAL-PWY	superpathway of fatty acid biosynthesis initiation (E. coli)	ACCA	ACCB	FABB	FABD	FABF	FABG	FABH	USG
+FERMENTATION-PWY	mixed acid fermentation	ACKA	ACNB	ADHC	ADHP	FDHF	FRDA	FRDB	FRDC	FRDD	FUMA	FUMB	FUMC	GLTA	HYCB	HYCC	HYCD	HYCE	HYCF	HYCG	ICDA	LDHA	MDH	PFLB	PPC	PTA	PYKA	PYKF	TDCE
+FOLSYN-PWY	tetrahydrofolate biosynthesis	FOLA	FOLC	FOLD	FOLE	FOLK	FOLP	NTPA	PABA	PABB	PABC	PURN	YDGB	YGIG
+FUC-RHAMCAT-PWY	superpathway of fucose and rhamnose degradation	ALDA	FUCA	FUCI	FUCK	FUCO	LLDD	RHAA	RHAB	RHAD
+FUCCAT-PWY	fucose degradation	FUCA	FUCI	FUCK
+GALACT-GLUCUROCAT-PWY	superpathway of hexuronide and hexuronate degradation	KDGK	UIDA	UXAA	UXAB	UXAC	UXUA	UXUB
+GALACTARDEG-PWY	D-galactarate degradation	YHAD	YHAE	YHAF	YHAG
+GALACTCAT-PWY	D-galactonate degradation	DGOA	DGOK	SRLA
+GALACTITOLCAT-PWY	galactitol degradation	AGAY	AGAZ	GATD	GATY	GATZ	PFKB
+GALACTMETAB-PWY	galactose degradation I (Leloir pathway)	GALE	GALF	GALK	GALM	GALT	GALU
+GALACTUROCAT-PWY	D-galacturonate degradation	KDGK	UXAA	UXAB	UXAC
+GLCMANNANAUT-PWY	superpathway of <i>N</i>-acetylglucosamine, <i>N</i>-acetylmannosamine and <i>N</i>-acetylneuraminate degradation	NAGA	NAGB	NANA	YHCI	YHCJ
+GLNSYN-PWY	glutamine biosynthesis I	GLNA
+GLUAMCAT-PWY	<i>N</i>-acetylglucosamine degradation	NAGA	NAGB
+GLUCARDEG-PWY	<i>D</i>-glucarate degradation	YGCX	YHAD	YHAE	YHAF
+GLUCARGALACTSUPER-PWY	superpathway of D-glucarate and D-galactarate degradation	YGCX	YHAD	YHAE	YHAF	YHAG
+GLUCONEO-PWY	gluconeogenesis I	B2097	B2463	ENO	FBA	FBP	GAPA	GLPX	GPMA	GPMB	MDH	PCKA	PGI	PGK	PPC	PPSA	SFCA	YBHA	YGGF	YIBO
+GLUCONSUPER-PWY	superpathway of gluconate degradation	EDA	EDD	GND	GNTK	IDNK	RPIA	RPIB
+GLUCOSE1PMETAB-PWY	glucose and glucose-1-phosphate degradation	AGP	ASD	B0822	GCD	GLK	PGM	YIDA	YIGL	YIHX
+GLUCUROCAT-PWY	&beta;-D-glucuronide and D-glucuronate degradation	KDGK	UIDA	UXAC	UXUA	UXUB
+GLUT-REDOX-PWY	glutathione redox reactions II	GOR
+GLUTAMINDEG-PWY	glutamine degradation I	YBAS	YNEH
+GLUTATHIONESYN-PWY	glutathione biosynthesis	GSHA	GSHB
+GLUTDEG-PWY	glutamate degradation II	ASPA	ASPC
+GLUTORN-PWY	ornithine biosynthesis	ARGA	ARGB	ARGC	ARGD	ARGE	CSTC
+GLUTSYN-PWY	glutamate biosynthesis I	GLTB	GLTD
+GLUTSYNIII-PWY	glutamate biosynthesis III	GDHA
+GLYCEROLMETAB-PWY	glycerol degradation V	GLDA
+GLYCLEAV-PWY	glycine cleavage complex	GCVP	GCVT	LPDA
+GLYCOCAT-PWY	glycogen degradation I	GLGP	GLGX	GLK	MALP	MALQ	MALZ	PGM
+GLYCOGENSYNTH-PWY	glycogen biosynthesis I (from ADP-D-Glucose)	GLGA	GLGB	GLGC
+GLYCOL-GLYOXDEG-PWY	superpathway of glycol metabolism and degradation	ALDA	FUCO	GCL	GLCB	GLCD	GLCF	YBBQ	YBBZ
+GLYCOLATEMET-PWY	glycolate and glyoxylate degradation I	GCL	GLCD	GLCF	YBBQ	YBBZ
+GLYCOLYSIS	glycolysis I	B2097	ENO	FBA	FBP	GAPA	GLPX	GPMA	GPMB	PFKA	PFKB	PGI	PGK	PPSA	PYKA	PYKF	TPIA	YBHA	YGGF	YIBO
+GLYCOLYSIS-E-D	superpathway of glycolysis and Entner-Doudoroff	B2097	EDA	EDD	ENO	FBA	FBP	GAPA	GLPX	GPMA	GPMB	PFKA	PFKB	PGI	PGK	PPSA	PYKA	PYKF	TPIA	YBHA	YBHE	YGGF	YIBO	ZWF
+GLYCOLYSIS-TCA-GLYOX-BYPASS	superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass	ACEA	ACEB	ACEE	ACEF	ACNA	ACNB	B2097	ENO	FBA	FBP	FUMA	FUMB	FUMC	GAPA	GLPX	GLTA	GPMA	GPMB	ICDA	LPDA	MDH	PFKA	PFKB	PGI	PGK	PPSA	PYKA	PYKF	SDHA	SDHB	SDHC	SDHD	SUCA	SUCB	SUCC	SUCD	TPIA	YBHA	YGGF	YIBO	YOJH
+GLYOXDEG-PWY	glycolate and glyoxylate degradation II	GLCB	GLCD	GLCF
+GLYOXYLATE-BYPASS	glyoxylate cycle	ACEA	ACEB	ACNA	ACNB	GLTA	MDH
+GLYSYN-PWY	glycine biosynthesis I	GLYA
+HCAMHPDEG-PWY	3-phenylpropionate and 3-(3-hydroxyphenyl)propionate degradation to 2-oxopent-4-enoate	HCAA1	HCAA2	HCAB	HCAC	HCAD	MHPA	MHPB	MHPC
+HEME-BIOSYNTHESIS-II	heme biosynthesis from uroporphyrinogen-III I	HEMC	HEMF	HEMG	HEMH
+HEMESYN2-PWY	heme biosynthesis from uroporphyrinogen-III II	HEMC	HEMG	HEMH	HEMN
+HEXITOLDEGSUPER-PWY	superpathway of hexitol degradation	MTLD	SRLD
+HISTSYN-PWY	histidine biosynthesis	HISA	HISB	HISC	HISD	HISF	HISG	HISH	HISI
+HOMOSER-METSYN-PWY	methionine biosynthesis I	MALY	META	METB	METC	METE	METH
+HOMOSER-THRESYN-PWY	threonine biosynthesis from homoserine	THRB	THRC
+HOMOSERSYN-PWY	homoserine biosynthesis	ASD	LYSC	METL	THRA
+IDNCAT-PWY	L-idonate degradation	IDND	IDNK	IDNO
+ILEUSYN-PWY	isoleucine biosynthesis I (from threonine)	ILVA	ILVB	ILVC	ILVD	ILVE	ILVG_1	ILVH	ILVI	ILVM	ILVN
+KDO-LIPASYN-PWY	KDO<sub>2</sub>-lipid A biosynthesis I	HTRB	MSBB
+KDO-NAGLIPASYN-PWY	superpathway of KDO<SUB>2</SUB>-lipid A biosynthesis	DDG	GUTQ	HLPA	HTRB	KDSA	KDSB	KDTA	LPXA	LPXB	LPXC	MSBB	YBBF	YCAH	YRBH	YRBI
+KDOSYN-PWY	KDO transfer to lipid IV<SUB>A</SUB>	KDTA
+KETOGLUCONMET-PWY	ketogluconate metabolism	IDND	IDNK	IDNO	YAFB	YIAE	YQHE
+LCYSDEG-PWY	L-cysteine degradation II	METC	TNAA
+LEUSYN-PWY	leucine biosynthesis	ILVE	LEUA	LEUB	LEUC	LEUD	TYRB
+LIPA-CORESYN-PWY	Lipid A-core biosynthesis	RFAB	RFAC	RFAF	RFAG	RFAI	RFAJ	RFAK	RFAP	RFAQ	RFAY
+LPSSYN-PWY	superpathway of lipopolysaccharide biosynthesis	GUTQ	HLPA	HTRB	KDSA	KDSB	KDTA	LPXA	LPXB	LPXC	MSBB	RFAB	RFAC	RFAF	RFAG	RFAI	RFAJ	RFAK	RFAP	RFAQ	RFAY	YBBF	YCAH	YRBH	YRBI
+LYXMET-PWY	L-lyxose degradation	ARAD	LYXK	RHAA	SGBE	SGBU
+MANNCAT-PWY	D-mannose degradation	MANA
+MANNIDEG-PWY	mannitol degradation I	MTLD
+MENAQUINONESYN-PWY	menaquinone-8 biosynthesis	UBIE
+MET-SAM-PWY	methionine and methyl-donor-molecule biosynthesis	ASD	MALY	META	METB	METC	METE	METH	METK	METL
+METHGLYUT-PWY	superpathway of methylglyoxal degradation	ALDA	B1781	B3001	DLD	GLDA	GLOA	GLOB	LLDD	YAFB	YEIG	YQHE
+METSYN-PWY	homoserine and methionine biosynthesis	ASD	MALY	META	METB	METC	METE	METH	METL
+NADPHOS-DEPHOS-PWY	NAD phosphorylation and dephosphorylation	PNTA	PNTB	YFJB
+NAGLIPASYN-PWY	lipid-A-precursor biosynthesis	HLPA	LPXA	LPXB	LPXC	YBBF	YCAH
+NONMEVIPP-PWY	methylerythritol phosphate pathway	B2889	DXS	GCPE	LYTB	YAEM	YCHB	YGBB	YGBP
+NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)	RPE	RPIA	RPIB	TALA	TALB	TKTA	TKTB
+NRI-PWY	Nitrogen Regulation Two-Component System	GLNA	GLND	GLNE
+OANTIGEN-PWY	<i>O</i>-antigen biosynthesis (<i>E. coli</i>)	GLF	GLMS	GLMU	MRSA	RFBA	RFBB	RFBC	RFBD
+ORNARGDEG-PWY	superpathway of arginine and ornithine degradation	ADIA	ALDH	B1297	B1444	B1525	GABD	GABT	GOAG	ORDL	SPEB	SPEF	YCJL	YGJG
+ORNDEG-PWY	superpathway of ornithine degradation	ALDH	B1297	B1444	ORDL	SPEF	YCJL	YGJG
+OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch)	GND	YBHE	ZWF
+P2-PWY	2'-(5'-phosphoribosyl)-3'-dephospho-CoA biosynthesis I (citrate lyase)	CITG	YBDU
+P4-PWY	superpathway of lysine, threonine and methionine biosynthesis I	ARGD	ASD	ASPC	DAPA	DAPB	DAPD	DAPE	DAPF	LYSA	LYSC	MALY	META	METB	METC	METE	METH	METL	THRA	THRB	THRC
+PANTO-PWY	pantothenate biosynthesis I	APBA	PANB	PANC
+PANTOSYN-PWY	pantothenate and coenzyme A biosynthesis I	APBA	COAA	DFP	KDTB	PANB	PANC	PAND	YACE
+PENTOSE-P-PWY	pentose phosphate pathway	GND	RPE	RPIA	RPIB	TALA	TALB	TKTA	TKTB	YBHE	ZWF
+PEPTIDOGLYCANSYN-PWY	peptidoglycan biosynthesis III	DDLA	DDLB	MRAY	MURA	MURB	MURC	MURD	MURE	MURF	MURG	MURI
+PHESYN	phenylalanine biosynthesis I	ASPC	PHEA	TYRA	TYRB
+PHOSLIPSYN-PWY	phospholipid biosynthesis I	CDSA	CLS	GPSA	PGPA	PGPB	PGSA	PLSB	PLSC	PSD	PSSA	YBHO
+PLPSAL-PWY	pyridoxal 5'-phosphate salvage pathway	PDXH	PDXY	THIJ
+POLYAMSYN-PWY	superpathway of polyamine biosynthesis I	CADA	LDCC	SPEA	SPEB	SPEC	SPED	SPEE
+POLYISOPRENSYN-PWY	polyisoprenoid biosynthesis (<i>E. coli</i>)	B2889	ISPA	ISPB	YAES
+PPGPPMET-PWY	ppGpp biosynthesis	GPPA	GPT	RELA	SPOT
+PROPIONMET-PWY	methylmalonyl pathway	SBM
+PROSYN-PWY	proline biosynthesis I	PROA	PROB	PROC
+PROUT-PWY	proline degradation I	PUTA
+PRPP-PWY	superpathway of histidine, purine, and pyrimidine biosynthesis	ADK	CARA	CARB	DEOB	GMK	GUAA	GUAB	HISA	HISB	HISC	HISD	HISF	HISG	HISH	HISI	NDK	NRDA	NRDB	NRDD	NRDE	PHNN	PRSA	PURA	PURB	PURC	PURD	PURE	PURH	PURK	PURL	PURM	PURT	PYRB	PYRC	PYRD	PYRE	PYRF	PYRG	PYRH	PYRI	YGAD
+PUTDEG-PWY	putrescine degradation I	B1444	YGJG
+PWY-1269	CMP-KDO biosynthesis I	GUTQ	KDSA	KDSB	YRBH	YRBI
+PWY-1801	formaldehyde oxidation II (glutathione-dependent)	ADHC	YAIM	YEIG
+PWY-2161	folate polyglutamylation I	FOLC	GLYA
+PWY-40	putrescine biosynthesis I	SPEA	SPEB
+PWY-4381	fatty acid biosynthesis initiation I	ACCA	ACCB	FABD	FABG	FABH	USG
+PWY-46	putrescine biosynthesis III	SPEC
+PWY-5084	2-ketoglutarate dehydrogenase complex	LPDA	SUCA	SUCB
+PWY-5123	<i>trans,trans</i>-farnesyl diphosphate biosynthesis	B2889	ISPA
+PWY-5155	&beta;-alanine biosynthesis IV	PAND
+PWY-5162	2-oxopentenoate degradation	MHPD	MHPE	MHPF
+PWY-5188	tetrapyrrole biosynthesis I	GLTX	HEMA	HEMB	HEMC	HEMD	HEML
+PWY-5194	siroheme biosynthesis	CYSG
+PWY-5340	sulfate activation for sulfonation	CYSC	CYSD	CYSN
+PWY-5386	methylglyoxal degradation I	DLD	GLOA	GLOB	YEIG
+PWY-5436	threonine degradation IV	ADHC	MHPF	YBJU
+PWY-5437	threonine degradation I	ACKA	PFLB	PTA	TDCB	TDCD	TDCE
+PWY-5448	aminopropanol biosynthesis	GLDA	TDH
+PWY-5453	methylglyoxal degradation III	B1781	B3001	GLDA	YAFB	YQHE
+PWY-5459	methylglyoxal degradation IV	ALDA	LLDD
+PWY-5659	GDP-mannose biosynthesis	CPSB	CPSG	MANA	PGI
+PWY-5667	CDP-diacylglycerol biosynthesis I	CDSA	GPSA	PLSB	PLSC
+PWY-5668	cardiolipin biosynthesis I	CLS	PGPA	PGPB	PGSA	YBHO
+PWY-5669	phosphatidylethanolamine biosynthesis I	PSD	PSSA
+PWY-5686	uridine-5'-phosphate biosynthesis	CARA	CARB	PYRB	PYRC	PYRD	PYRE	PYRF	PYRI
+PWY-5687	pyrimidine ribonucleotides interconversion	NDK	PYRG	PYRH
+PWY-5698	allantoin degradation to ureidoglycolate II (ammonia producing)	YBBX	YLBB
+PWY-5783	octaprenyl diphosphate biosynthesis	ISPB
+PWY-5785	di-<i>trans</i>,poly-<i>cis</i>-undecaprenyl diphosphate biosynthesis	YAES
+PWY-5837	1,4-dihydroxy-2-naphthoate biosynthesis I	MENB	MENC	MEND	MENE	MENF	YFBB
+PWY-5838	superpathway of menaquinone-8 biosynthesis I	ISPB	MENA	MENB	MENC	MEND	MENE	MENF	UBIE	YFBB
+PWY-5852	demethylmenaquinone-8 biosynthesis II	MENA
+PWY-5901	2,3-dihydroxybenzoate biosynthesis	ENTA	ENTB	ENTC
+PWY-5965	fatty acid biosynthesis initiation III	FABB	FABF
+PWY-5966	fatty acid biosynthesis initiation II	FABB	FABF	FABH
+PWY-5971	palmitate biosynthesis II (bacteria and plants)	FABB	FABG	FABZ
+PWY-5973	<i>cis</i>-vaccenate biosynthesis	FABA	FABF	FABG	FABZ
+PWY-6071	superpathway of phenylethylamine degradation	B1391	B1392	B1394	B1397	B1398	FEAB	MAOC	TYNA	YDBO	YDBP	YDBS	YDBU	YNBF
+PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I	PURC	PURD	PURL	PURM	PURN
+PWY-6122	5-aminoimidazole ribonucleotide biosynthesis II	PURC	PURD	PURL	PURM	PURT
+PWY-6123	inosine-5'-phosphate biosynthesis I	PURB	PURC	PURE	PURH	PURK
+PWY-6125	guanosine nucleotides <i>de novo</i> biosynthesis	GMK	GUAA	GUAB	NDK	NRDA	NRDB	NRDD	NRDE	YGAD
+PWY-6126	adenosine nucleotides <i>de novo</i> biosynthesis	ADK	NDK	NRDA	NRDB	NRDD	NRDE	PURA	PURB	YGAD
+PWY-6151	<i>S</i>-adenosyl-L-methionine cycle I	METE	METK	PFS	YGAG
+PWY-6153	autoinducer AI-2 biosynthesis I	PFS	YGAG
+PWY-6277	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	PURC	PURD	PURL	PURM	PURN	PURT
+PWY-6282	palmitoleate biosynthesis I	FABB	FABG	FABI	FABZ	TESA
+PWY-6284	superpathway of unsaturated fatty acids biosynthesis (<i>E. coli</i>)	FABA	FABB	FABF	FABG	FABI	FABZ	TESA
+PWY-66	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	GMD	WCAG
+PWY-901	methylglyoxal degradation II	DLD
+PWY0-1021	alanine biosynthesis III	YFHO
+PWY0-1061	superpathway of alanine biosynthesis	ALR	AVTA	DADX	ILVE	YFHO
+PWY0-1182	trehalose degradation II (trehalase)	GLK	TREA	TREF
+PWY0-1221	putrescine degradation II	ALDH	B1297	ORDL	YCJL
+PWY0-1241	ADP-L-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose biosynthesis	B3052	GMHA	RFAD	YAED
+PWY0-1261	1,6-anhydro-<i>N</i>-acetylmuramic acid recycling	B1640	YFEU
+PWY0-1264	biotin-carboxyl carrier protein	ACCA	BIRA	FABG	USG
+PWY0-1275	lipoate biosynthesis and incorporation II	LIPA	LPLA
+PWY0-1277	3-phenylpropionate and 3-(3-hydroxyphenyl)propionate degradation	HCAA1	HCAA2	HCAB	HCAC	HCAD	MHPA	MHPB	MHPC	MHPD	MHPE	MHPF
+PWY0-1280	ethylene glycol degradation	ALDA	FUCO
+PWY0-1295	degradation of pyrimidine ribonucleosides	CDD	DEOB	UDP
+PWY0-1296	degradation of purine ribonucleosides	ADD	DEOB	DEOD	XAPA
+PWY0-1297	purine deoxyribonucleosides degradation	ADD	ADHC	DEOB	DEOC	DEOD	MHPF
+PWY0-1298	pyrimidine deoxyribonucleosides degradation	ADHC	CDD	DEOA	DEOB	DEOC	MHPF
+PWY0-1299	arginine dependent acid resistance	ADIA
+PWY0-1300	2-<I>O</I>-&alpha;-mannosyl-D-glycerate degradation	YBGG	YHAD
+PWY0-1301	melibiose degradation	MELA
+PWY0-1303	aminopropylcadaverine biosynthesis	CADA	LDCC	SPEE
+PWY0-1305	glutamate dependent acid resistance	GADA	GADB
+PWY0-1306	L-galactonate degradation	YJJN
+PWY0-1309	chitobiose degradation	CELF	YCFX
+PWY0-1312	acetate formation from acetyl-CoA I	ACKA	PTA
+PWY0-1313	acetate conversion to acetyl-CoA	ACS
+PWY0-1314	fructose degradation	FRUK
+PWY0-1315	L-lactaldehyde degradation (anaerobic)	FUCO
+PWY0-1317	L-lactaldehyde degradation (aerobic)	ALDA	LLDD
+PWY0-1319	CDP-diacylglycerol biosynthesis II	CDSA	GPSA	PLSB	PLSC
+PWY0-1321	formate to nitrate electron transfer	FDNG	FDNH	FDNI	FDOG	FDOH	FDOI	NARG	NARH	NARI	NARV	NARY	NARZ
+PWY0-1324	<i>N</i>-acetylneuraminate and <i>N</i>-acetylmannosamine degradation	NANA	YHCI	YHCJ
+PWY0-1325	superpathway of asparagine biosynthesis	ASNA	ASNB
+PWY0-1329	succinate to cytochrome <i>bo</i> oxidase electron transfer	CYOA	CYOB	CYOC	CYOD	SDHA	SDHB	SDHC	SDHD
+PWY0-1334	NADH to cytochrome <i>bd</i> oxidase electron transfer	APPB	APPC	CYDA	CYDB	NUOA	NUOB	NUOC	NUOE	NUOF	NUOG	NUOH	NUOI	NUOJ	NUOK	NUOL	NUON	WRBA	YIEF
+PWY0-1335	NADH to cytochrome <i>bo</i> oxidase electron transfer	CYOA	CYOB	CYOC	CYOD	NUOA	NUOB	NUOC	NUOE	NUOF	NUOG	NUOH	NUOI	NUOJ	NUOK	NUOL	NUON	WRBA	YIEF
+PWY0-1336	NADH to fumarate electron transfer	FRDA	FRDB	FRDC	FRDD	NUOA	NUOB	NUOC	NUOE	NUOF	NUOG	NUOH	NUOI	NUOJ	NUOK	NUOL	NUON	WRBA	YIEF
+PWY0-1337	oleate &beta;-oxidation	FADB	YBAW
+PWY0-1338	biosynthesis of  4-amino-4-deoxy-L-arabinose-modified lipid A	B2253	B2254	B2255
+PWY0-1347	NADH to trimethylamine N-oxide electron transfer	BISZ	NUOA	NUOB	NUOC	NUOE	NUOF	NUOG	NUOH	NUOI	NUOJ	NUOK	NUOL	NUON	TORA	TORC	WRBA	YECK	YIEF
+PWY0-1348	NADH to dimethyl sulfoxide electron transfer	DMSA	DMSB	DMSC	NUOA	NUOB	NUOC	NUOE	NUOF	NUOG	NUOH	NUOI	NUOJ	NUOK	NUOL	NUON	WRBA	YIEF
+PWY0-1352	NADH to nitrate electron transfer	NARG	NARH	NARI	NARV	NARY	NARZ	NUOA	NUOB	NUOC	NUOE	NUOF	NUOG	NUOH	NUOI	NUOJ	NUOK	NUOL	NUON	WRBA	YIEF
+PWY0-1353	succinate to cytochrome <i>bd</i> oxidase electron transfer	APPB	APPC	CYDA	CYDB	SDHA	SDHB	SDHC	SDHD
+PWY0-1355	formate to trimethylamine N-oxide electron transfer	BISZ	FDNG	FDNH	FDNI	FDOG	FDOH	FDOI	TORA	TORC	YECK
+PWY0-1356	formate to dimethyl sulfoxide electron transfer	DMSA	DMSB	DMSC	FDNG	FDNH	FDNI	FDOG	FDOH	FDOI
+PWY0-1391	methylthioadenosine degradation	PFS
+PWY0-1415	superpathway of heme biosynthesis from uroporphyrinogen-III	HEMC	HEMF	HEMG	HEMH	HEMN
+PWY0-162	pyrimidine ribonucleotides <i>de novo</i> biosynthesis	CARA	CARB	NDK	PYRB	PYRC	PYRD	PYRE	PYRF	PYRG	PYRH	PYRI
+PWY0-163	salvage pathways of pyrimidine ribonucleotides	CDD	CMK	CODA	NDK	UDK	UDP	UPP
+PWY0-166	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis	DCD	DUT	NDK	NRDA	NRDB	NRDD	NRDE	THYA	TMK	YFAO	YGAD
+PWY0-181	salvage pathways of pyrimidine deoxyribonucleotides	CDD	DEOA	TDK
+PWY0-301	L-ascorbate degradation, anaerobic	SGAE	SGAH	SGAU	YJFR
+PWY0-321	phenylacetate degradation I (aerobic)	B1391	B1392	B1394	B1397	B1398	MAOC	YDBO	YDBP	YDBS	YDBU	YNBF
+PWY0-381	glycerol degradation I	GLPA	GLPB	GLPC	GLPD	GLPK	GLPQ	UGPQ
+PWY0-41	allantoin degradation IV (anaerobic)	YBBX	YLBB	YLBC
+PWY0-42	2-methylcitrate cycle I	ACNB	ACS	PRPB	PRPC	PRPD
+PWY0-43	conversion of succinate to propionate	SBM	YGFG	YGFH
+PWY0-44	D-allose degradation	RPIB	YJCT	YJCU
+PWY0-461	lysine degradation I	CADA	LDCC
+PWY0-501	lipoate biosynthesis and incorporation I	AAS	LIPA	LIPB
+PWY0-521	fructoselysine and psicoselysine degradation	YHFN	YHFO	YHFQ
+PWY0-522	lipoate salvage and modification	LPLA
+PWY0-541	cyclopropane fatty acid (CFA) biosynthesis	CFA
+PWY0-661	PRPP biosynthesis II	DEOB	PHNN
+PWY0-662	PRPP biosynthesis I	PRSA
+PWY0-781	aspartate superpathway	ARGD	ASD	ASPC	DAPA	DAPB	DAPD	DAPE	DAPF	LYSA	LYSC	MALY	META	METB	METC	METE	METH	METK	METL	NADA	NADB	NADC	NADE	THRA	THRB	THRC	YBEN
+PWY0-823	arginine degradation III (arginine decarboxylase/agmatinase pathway)	ADIA	SPEA	SPEB
+PWY0-845	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	DXS	EPD	PDXA	PDXB	PDXH	PDXJ	PDXY	SERC	THIJ
+PWY0-862	<i>cis</i>-dodecenoyl biosynthesis	FABA	FABB	FABG	FABI	FABZ
+PWY0-881	superpathway of fatty acid biosynthesis I (E. coli)	ACCA	ACCB	FABA	FABB	FABD	FABF	FABG	FABH	FABI	FABZ	USG
+PWY0-901	selenocysteine biosynthesis I (bacteria)	SELA	SELD	SERS
+PWY0-981	taurine degradation IV	TAUD
+PYRIDNUCSAL-PWY	NAD salvage pathway I	NADE	PNCB	YBEN	YDJB	YJAD
+PYRIDNUCSYN-PWY	NAD biosynthesis I (from aspartate)	NADA	NADB	NADC	NADE	YBEN
+PYRIDOXSYN-PWY	pyridoxal 5'-phosphate biosynthesis	DXS	EPD	PDXA	PDXB	PDXH	PDXJ	SERC
+PYRUVDEHYD-PWY	acetyl-CoA biosynthesis (from pyruvate)	ACEE	ACEF	LPDA
+PYRUVOX-PWY	pyruvate oxidation pathway	POXB
+RHAMCAT-PWY	rhamnose degradation	RHAA	RHAB	RHAD
+RIBOKIN-PWY	ribose degradation	RBSD	RBSK
+RIBOSYN2-PWY	flavin biosynthesis I (bacteria)	RIBA	RIBB	RIBE	RIBF	RIBH	YBAE
+SALVADEHYPOX-PWY	salvage pathways of adenine, hypoxanthine, and their nucleosides	ADD	AMN	APT	B2866	B2868	DEOD	GPT	GSK	HPT	YGET
+SALVPURINE2-PWY	salvage pathways of guanine, xanthine, and their nucleosides	DEOD	GPT	GSK	HPT	XAPA	YGFP
+SAM-PWY	S-adenosylmethionine biosynthesis	METK
+SER-GLYSYN-PWY	superpathway of serine and glycine biosynthesis I	GLYA	SERA	SERB	SERC
+SERDEG-PWY	L-serine degradation	SDAA	SDAB	TDCB	YHAP
+SERSYN-PWY	serine biosynthesis	SERA	SERB	SERC
+SO4ASSIM-PWY	sulfate reduction I (assimilatory)	CYSC	CYSD	CYSH	CYSI	CYSJ	CYSN
+SORBDEG-PWY	sorbitol degradation II	SRLD
+SULFATE-CYS-PWY	superpathway of sulfate assimilation and cysteine biosynthesis	CYSC	CYSD	CYSE	CYSH	CYSI	CYSJ	CYSM	CYSN	CYSZ	SERA	SERB	SERC
+TCA	TCA cycle	ACNA	ACNB	FUMA	FUMB	FUMC	GLTA	ICDA	LPDA	MDH	SDHA	SDHB	SDHC	SDHD	SUCA	SUCB	SUCC	SUCD	YOJH
+TCA-GLYOX-BYPASS	superpathway of glyoxylate bypass and TCA	ACEA	ACEB	ACNA	ACNB	FUMA	FUMB	FUMC	GLTA	ICDA	LPDA	MDH	SDHA	SDHB	SDHC	SDHD	SUCA	SUCB	SUCC	SUCD	YOJH
+THIOREDOX-PWY	thioredoxin pathway	TRXB
+THISYN-PWY	thiamin biosynthesis I	DXS	THIC	THIE	THIF	THIG	THIH	THIJ	THIM	YCFN	YFHO
+THRDLCTCAT-PWY	threonine degradation III (to methylglyoxal)	TDH	TYNA
+THREOCAT-PWY	superpathway of threonine metabolism	ACKA	ADHC	GLDA	ILVA	ILVB	ILVC	ILVD	ILVE	ILVG_1	ILVH	ILVI	ILVM	ILVN	KBL	MHPF	PFLB	PTA	TDCB	TDCD	TDCE	TDH	TYNA	YBJU
+THREONINE-DEG2-PWY	threonine degradation II	KBL	TDH
+THRESYN-PWY	threonine biosynthesis	ASD	ASPC	LYSC	METL	THRA	THRB	THRC
+TREDEGLOW-PWY	trehalose degradation I (low osmolarity)	GLK	TREC
+TRESYN-PWY	trehalose biosynthesis I	OTSA	OTSB
+TRNA-CHARGING-PWY	tRNA charging pathway	ALAS	ARGS	ASNS	ASPS	CYSS	GLNS	GLTX	GLYQ	GLYS	HISS	ILES	LEUS	LYSS	LYSU	METG	PHES	PHET	PROS	SERS	THRS	TRPS	TYRS	VALS
+TRPSYN-PWY	tryptophan biosynthesis	TRPA	TRPB	TRPC	TRPD	TRPE
+TRYPDEG-PWY	tryptophan degradation II (via pyruvate)	TNAA
+TYRSYN	tyrosine biosynthesis I	PHEA	TYRA	TYRB
+UBISYN-PWY	ubiquinone-8 biosynthesis (prokaryotic)	UBIA	UBIB	UBIC	UBIE	UBIG	UBIH	UBIX	YIGC	YIGR	YLEB
+UDPNAGSYN-PWY	UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I	GLMS	GLMU	MRSA
+VALSYN-PWY	valine biosynthesis	ILVB	ILVC	ILVD	ILVE	ILVG_1	ILVH	ILVI	ILVM	ILVN
+XYLCAT-PWY	xylose degradation I	XYLA	XYLB
